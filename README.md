@@ -1,4 +1,4 @@
-# openstack_taster
+# openstack_taster - TESTER
 Tests a complete OpenStack deployment for various functionalities
 
 # Usage
